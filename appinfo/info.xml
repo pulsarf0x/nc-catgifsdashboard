@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>catgifsdashboard</id>
+	<name>Cat Gifs Dashboard</name>
+	<summary>Test de création d'app Nextcloud</summary>
+	<description>Test de création d'app Nextcloud</description>
+	<version>1.0.0</version>
+	<licence>agpl</licence>
+	<author mail="pascal@plumia.net" homepage="">Pascal Prugna</author>
+	<namespace>CatGifsDashboard</namespace>
+	<category>search</category>
+	<bugs>https://plumia.net</bugs>
+	<dependencies>
+		<nextcloud min-version="29" max-version="29"/>
+	</dependencies>
+</info>
